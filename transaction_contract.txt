@@ -1,0 +1,37 @@
+*************************************
+LIST OF CONTRACTS
+*************************************
+Mosaic ID: 6232060163005838953
+Mosaic Name: new contract 1
+Mosaic Payload: New Test Contract
+Mosaic Creator: Sathis Vasanthan
+Mosaic Receiver: Sharmelen Vasanthan
+Mosaic Time: 12:19:13
+Mosaic Date: 28/06/2021
+***************************************************
+Mosaic ID: 3063746609025154938
+Mosaic Name: asset2
+Mosaic Payload: This is second assets contract
+Mosaic Creator: Sathis Vasanthan
+Mosaic Receiver: Sharmelen Vasanthan
+Mosaic Time: 12:32:18
+Mosaic Date: 28/06/2021
+***************************************************
+Mosaic ID: 4156545542615810139
+Mosaic Name: asset3
+Mosaic Payload: This is just a test contract
+Mosaic Creator: Sathis Vasanthan
+Mosaic Receiver: Sharmelen Vasanthan
+Mosaic Time: 15:57:27
+Mosaic Date: 28/06/2021
+***************************************************
+Mosaic ID: 3512171884675969729
+Mosaic Name: asset6
+Mosaic Payload: this is a test contract
+Mosaic Creator: Sathis Vasanthan
+Mosaic Receiver: Sharmelen Vasanthan
+Mosaic Time: 11:09:13
+Mosaic Date: 30/06/2021
+***************************************************
+---
+7ce458e84579150325fdfb2b3eefc148ea5c44801e8e5fe624e5c61c1d6a1ce8 =end=

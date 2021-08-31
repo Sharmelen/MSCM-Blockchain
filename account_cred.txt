@@ -1,0 +1,10 @@
+Account Has Been Generated
+
+Your Username: Sathis Vasanthan
+
+Your Private Key: 074ab2e0113dabd15f784626467a57f9526d2020b3d40f1fa62a501d60dd39f9
+
+Your Public Key: b7bb1248800ab8098c82699141b1b9f099b083d29ff528f7b92428069c2019f4
+
+Account Address: VCRAUNZ774VMHM4PDA7PHOQFJ4Z65UP52GDBJI24
+
